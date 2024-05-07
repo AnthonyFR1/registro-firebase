@@ -1,12 +1,12 @@
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCblty5FK4k09bO0iqCm6CbCWYYHLUwg2c",
-  authDomain: "validacion-formulario-bf2a4.firebaseapp.com",
-  projectId: "validacion-formulario-bf2a4",
-  storageBucket: "validacion-formulario-bf2a4.appspot.com",
-  messagingSenderId: "462409731529",
-  appId: "1:462409731529:web:8c73984b7acdf70e986c18",
-  measurementId: "G-76BKZPXJ4L"
+  apiKey: "TUS DATOS DE TU API",
+  authDomain: "TUS DATOS DE TU API",
+  projectId: "TUS DATOS DE TU API",
+  storageBucket: "TUS DATOS DE TU API",
+  messagingSenderId: "TUS DATOS DE TU API",
+  appId: "TUS DATOS DE TU API",
+  measurementId: "TUS DATOS DE TU API"
 };
 
 // Initialize Firebase
